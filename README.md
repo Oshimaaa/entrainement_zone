@@ -1,5 +1,5 @@
 ## Utilisation
-Dans weapons chercher par défaut "Entraînement" puis le swep "Zone d'entrainement" et toute les commandes d'utilisation seront indiquer dans le chat une fois give.
+Dans weapons chercher par défaut la catégorie "Entraînement" puis le swep "Zone d'entrainement" et toute les commandes d'utilisation seront indiquer dans le chat une fois give.
 
 Dans la console F10 : 
 
